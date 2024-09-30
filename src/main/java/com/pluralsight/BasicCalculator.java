@@ -8,13 +8,13 @@ public static void  main(String[] args) {
     //Enter first number
 
     System.out.print("What is your first number? ");
-    int firstNumber = s.nextInt();
+    float firstNumber = s.nextFloat();
     s.nextLine();
 
     //Enter second number
 
     System.out.print("What is your second number? ");
-    int secondNumber = s.nextInt();
+    float secondNumber = s.nextFloat();
     s.nextLine();
 
     //Possible Calculations
